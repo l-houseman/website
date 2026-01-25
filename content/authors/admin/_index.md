@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student & Programs
+role: PhD Student & Programs Officer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -41,37 +41,47 @@ profiles:
     url: https://orcid.org/0009-0009-7918-3754
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Student Sociology 
+    institution: University of Saskatchewan
+    date_start: 2024
+    date_end: Expected completion 2028
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Thesis on disability and emerging adulthood. Supervised by Dr. Laura Wright. 
+   # button:
+    #  text: 'Read Thesis'
+     # url: 'https://example.com'
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MA Sociology
+    institution: University of Saskatchewan
+    date_start: ""
+    date_end: 2024
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+  - area: BA(Hons) Sociology
+    institution: University of Saskatchewan
+    date_start: ""
+    date_end: 2022
+    summary: |
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+  - area: BA Political Studies
+    institution: University of Saskatchewan
+    date_start: ""
+    date_end: 2016
+    summary: |
+      Minor: Crime, Law & Justice
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
