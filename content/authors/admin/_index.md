@@ -56,7 +56,7 @@ education:
   - area: MA Sociology
     institution: University of Saskatchewan
     date_start: ""
-    date_end: 2024-
+    date_end: 2024-12-12
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
