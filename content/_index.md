@@ -20,35 +20,12 @@ sections:
           parallax: false
     oe: "section-d728e3b4"
     _internalId: "section-zFsQOZjN"
-  - block: "stats"
-    content:
-      items:
-        - statistic: "15"
-          description: |
-            Publications
-        - statistic: "1,000+"
-          description: |
-            Citations
-        - statistic: "78"
-          description: |
-            h-index
-    design:
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      spacing:
-        padding:
-          - 0
-          - 0
-          - 0
-          - 0
-    oe: "section-791fce02"
-    _internalId: "section-BELMoBZ-"
   - block: "markdown"
     content:
-      title: "Welcome 👋"
+      title: "Hi 👋"
       subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
+        I specialize in disability studies, adulthood emergence, and applied data analytics, combining sociological theory with advanced quantitative methods to address health and social inequities. My work bridges research and practice using R and Python for data wrangling, visualization, and reproducible workflows. I am passionate about translating complex demographic and health data into actionable insights for policy and practice. My goal is to leverage these skills to contribute to evidence-based policy and innovative solutions that address health and social inequities, particularly for populations navigating disability and transitions to adulthood.
         **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
     design:
       columns: "1"
