@@ -41,6 +41,10 @@ jobs:
             pnpm install || npm install
           fi
 
+      - name: Debug HUGO_VERSION
+        run: |
+          echo "Resolved HUGO_VERSION=${HUGO_VERSION:-<empty>}"
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
