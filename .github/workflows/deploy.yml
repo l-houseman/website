@@ -67,7 +67,7 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
           # Optionally pass your premium license if needed to suppress attribution:
-          # HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
+          HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir || true)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
