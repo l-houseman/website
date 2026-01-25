@@ -63,6 +63,10 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Debug license presence
+        run: |
+          echo "HUGO_BLOX_LICENSE is ${HUGO_BLOX_LICENSE:+set}${HUGO_BLOX_LICENSE:+ (masked)}"
+
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
