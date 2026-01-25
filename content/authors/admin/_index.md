@@ -46,7 +46,7 @@ education:
     date_start: 2024
     date_end: ""
     summary: |
-      Expected completiong 2028.
+      Expected completion 2028./
       Thesis on disability and emerging adulthood. Supervised by Dr. Laura Wright. 
    # button:
     #  text: 'Read Thesis'
