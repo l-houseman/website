@@ -5,6 +5,8 @@ hugoblox:
     type: person
     tagline: PhD Student & Programs Officer | USask
     description: ""
+
+#Theme and layout
   theme:
     mode: system
     pack: dracula
@@ -19,6 +21,13 @@ hugoblox:
     radius: md
     spacing: comfortable
     avatar_shape: circle
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+#Header
   header:
     enable: true
     style: navbar
@@ -26,11 +35,17 @@ hugoblox:
     align: center
     search: true
     theme_toggle: true
+
+#Footer
   footer:
     style: minimal
     language_switcher: true
+
+#Copyright
   copyright:
     notice: © {year} {name}
+
+#Site features
   content:
     math:
       enable: false
@@ -40,3 +55,7 @@ hugoblox:
       enable: true
   search:
     enable: true
+
+# Security
+security:
+  allow_frame: true
