@@ -33,16 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:leah.houseman@usask.ca'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/l-houseman
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: www.linkedin.com/in/leah-houseman
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-7918-3754
 
 education:
   - area: PhD Artificial Intelligence
