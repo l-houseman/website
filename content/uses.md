@@ -2,6 +2,7 @@
 title: Uses
 date: 2023-10-24
 pager: false
+
 ---
 
 The idea of a Uses page is to tell you about the stuff I use.
