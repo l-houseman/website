@@ -46,7 +46,8 @@ education:
     date_start: 2024
     date_end: ""
     summary: |
-      Expected completion 2028./
+      Expected completion 2028.
+
       Thesis on disability and emerging adulthood. Supervised by Dr. Laura Wright. 
    # button:
     #  text: 'Read Thesis'
@@ -55,7 +56,7 @@ education:
   - area: MA Sociology
     institution: University of Saskatchewan
     date_start: ""
-    date_end: 2024
+    date_end: 2024-
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
