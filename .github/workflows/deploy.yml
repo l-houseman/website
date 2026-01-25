@@ -1,7 +1,8 @@
+
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.149.0'   # or the version in your hugoblox.yaml
+  WC_HUGO_VERSION: '0.149.0'   # pinned Hugo version
 
 on:
   push:
@@ -24,7 +25,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0        # lets Hugo compute .Lastmod, etc.
+          fetch-depth: 0  # lets Hugo compute .Lastmod, etc.
 
       - name: Setup Node.js (optional; used if package.json exists)
         uses: actions/setup-node@v4
@@ -40,10 +41,6 @@ jobs:
           if [ -f "package.json" ]; then
             pnpm install || npm install
           fi
-
-      - name: Debug HUGO_VERSION
-        run: |
-          echo "Resolved HUGO_VERSION=${HUGO_VERSION:-<empty>}"
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -69,8 +66,10 @@ jobs:
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
+          # Optionally pass your premium license if needed to suppress attribution:
+          # HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
         run: |
-          echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
+          echo "Hugo Cache Dir: $(hugo config | grep cachedir || true)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Generate Pagefind search index (only if used)
