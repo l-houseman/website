@@ -41,6 +41,7 @@ locale:
   #Footer
   footer:
     style: minimal
+    text: "Leah Houseman 2026"
     language_switcher: true
     attribution: false
 
