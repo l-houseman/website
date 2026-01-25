@@ -79,15 +79,18 @@ education:
     date_end: 2016-11-11
     summary: |
       Minor: Crime, Law & Justice
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Programs Officer
+   # icon: 'brands/my_company' 
+    #n your author profile (content/authors/admin/_index.md), create an icon option under your organizations or education item and point it to the desired logo you uploaded. For example, icon: 'brands/my_company' would display my_company.svg from your assets/media/icons/brands/ folder.
+    company_name: Research Acceleration and Strategic Initiatives
+    company_url: 'https://vpresearch.usask.ca/rasi/index.php'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
