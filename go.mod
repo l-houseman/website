@@ -1,6 +1,6 @@
-module github.com/HugoBlox/kit/templates/academic-cv
+module github.com/HugoBlox/all-access/blox-all-access
 
-go 1.19
+go 1.22
 
 require (
 	github.com/HugoBlox/kit/modules/integrations/netlify v0.0.0-20260102210655-66cba27dc652
