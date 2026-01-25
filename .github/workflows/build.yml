@@ -54,6 +54,12 @@ jobs:
           | awk '{print $2}' | tr -d '"'\'' )
         echo "HUGO_VERSION=$VERSION" >> "$GITHUB_ENV"
 
+  
+    - name: Debug HUGO_VERSION
+      run: |
+        echo "Resolved HUGO_VERSION=${HUGO_VERSION:-<empty>}"
+
+
     - name: Install dependencies
       run: |
         # Install Tailwind CLI if package.json exists
