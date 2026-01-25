@@ -6,7 +6,7 @@ hugoblox:
     tagline: PhD Student & Programs Officer | USask
     description: ""
 
-#Theme and layout
+  #Theme and layout
   theme:
     mode: system
     pack: dracula
@@ -14,6 +14,8 @@ hugoblox:
       primary: ""
       secondary: ""
       neutral: ""
+    colors_light:
+      primary: ""
   typography:
     font: sans
     size: md
@@ -27,7 +29,7 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
-#Header
+  #Header
   header:
     enable: true
     style: navbar
@@ -36,16 +38,16 @@ locale:
     search: true
     theme_toggle: true
 
-#Footer
+  #Footer
   footer:
     style: minimal
     language_switcher: true
 
-#Copyright
+  #Copyright
   copyright:
     notice: © {year} {name}
 
-#Site features
+  #Site features
   content:
     math:
       enable: false

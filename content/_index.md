@@ -1,28 +1,26 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
-type: landing
-
+title: ""
+summary: ""
+date: "2022-10-24"
+type: "landing"
 sections:
-  - block: resume-biography
+  - block: "resume-biography"
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text:
+      text: null
     design:
-      css_class: dark
+      css_class: "dark"
       background:
-        color: black
+        color: "black"
         image:
-          # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: "li-yang-5h_dMuX_7RE-unsplash.webp"
           filters:
             brightness: 0.4
-          size: cover
-          position: center
+          size: "cover"
+          position: "center"
           parallax: false
-  - block: stats
+    oe: "section-d728e3b4"
+    _internalId: "section-zFsQOZjN"
+  - block: "stats"
     content:
       items:
         - statistic: "15"
@@ -35,31 +33,34 @@ sections:
           description: |
             h-index
     design:
-      # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
-  - block: markdown
+        padding:
+          - 0
+          - 0
+          - 0
+          - 0
+    oe: "section-791fce02"
+    _internalId: "section-BELMoBZ-"
+  - block: "markdown"
     content:
-      title: 'Welcome 👋'
-      subtitle: ''
+      title: "Welcome 👋"
+      subtitle: ""
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
         **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
     design:
-      columns: '1'
-  - block: collection
+      columns: "1"
+    oe: "section-c9fed788"
+    _internalId: "section-4zni5Lbr"
+  - block: "collection"
     content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
+      title: "Recent News"
+      subtitle: ""
+      text: ""
+      page_type: "post"
       count: 5
-      # Filter on criteria
       filters:
         author: ""
         category: ""
@@ -68,14 +69,16 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      order: "desc"
     design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
+      view: "date-title-summary"
       spacing:
-        padding: [0, 0, 0, 0]
+        padding:
+          - 0
+          - 0
+          - 0
+          - 0
+    oe: "section-7dfe37c6"
+    _internalId: "section-Fn7zJULq"
 ---
