@@ -42,6 +42,7 @@ locale:
   footer:
     style: minimal
     language_switcher: true
+    attribution: false
 
   #Copyright
   copyright:
