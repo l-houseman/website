@@ -43,8 +43,8 @@ profiles:
 education:
   - area: PhD Student Sociology 
     institution: University of Saskatchewan
-    date_start: 2024
-    date_end: ""
+    date_start: 2024-09-09
+    #date_end: ""
     summary: |
       Expected completion 2028.
 
@@ -56,7 +56,7 @@ education:
   - area: MA Sociology
     institution: University of Saskatchewan
     date_start: ""
-    date_end: 2024-12-12
+    date_end: 2024-11-12
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -66,7 +66,7 @@ education:
   - area: BA(Hons) Sociology
     institution: University of Saskatchewan
     date_start: ""
-    date_end: 2022
+    date_end: 2022-04-04
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -76,7 +76,7 @@ education:
   - area: BA Political Studies
     institution: University of Saskatchewan
     date_start: ""
-    date_end: 2016
+    date_end: 2016-11-11
     summary: |
       Minor: Crime, Law & Justice
       Courses included:
