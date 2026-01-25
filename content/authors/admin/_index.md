@@ -36,7 +36,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/l-houseman
   - icon: brands/linkedin
-    url: www.linkedin.com/in/leah-houseman
+    url: https://www.linkedin.com/in/leah-houseman
   - icon: academicons/orcid
     url: https://orcid.org/0009-0009-7918-3754
 
