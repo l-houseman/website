@@ -1,5 +1,7 @@
 schema: "hugoblox/author/v1"
 slug: "me"
+schema: hugoblox/author/v1
+slug: leah_headshot
 is_owner: true
 name:
   display: "Leah Houseman, MA"
