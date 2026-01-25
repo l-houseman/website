@@ -2,18 +2,18 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Leah Houseman, MA
+  given: Leah
+  family: Houseman
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: she/her
 postnominals:
-  - PhD
-  - MIEEE
+  - MA
+  - BA (Hons)
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: ""
+role: PhD Student and Programs Officer
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -21,8 +21,8 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Saskatchewan
+    url: https://artsandscience.usask.ca/sociology/students/graduates/leah-houseman.php
 
 links:
   - icon: at-symbol
