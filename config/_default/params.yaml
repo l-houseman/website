@@ -102,10 +102,8 @@ hugoblox:
   # Site footer
   # ────────────────────────────────────────────────────────────────────────────
   footer:
-    # Footer style variant
-    style: minimal # minimal | columns | centered
     language_switcher: true
-    # Custom footer text (HTML supported)
+    # custom footer text
     text: ""
 
   # ────────────────────────────────────────────────────────────────────────────
