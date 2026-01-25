@@ -1,0 +1,15 @@
+slug: "avatar"
+name:
+  display: "Leah Houseman, MA"
+  given: "Leah"
+  family: "Houseman"
+  pronouns: "she/her"
+role: "PhD Student & Programs Officer"
+bio: ""
+status:
+  icon: "👋"
+postnominals:
+  - "MA"
+  - "BA(Hons)"
+is_owner: true
+schema: "hugoblox/author/v1"
