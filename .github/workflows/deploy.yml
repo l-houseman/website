@@ -1,7 +1,7 @@
 
 name: Deploy website to GitHub Pages
 
-env:
+env: 
   WC_HUGO_VERSION: '0.149.0'   # pinned Hugo version
 
 on:
@@ -50,16 +50,19 @@ jobs:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
 
-      - name: Cache Hugo & node modules
-        uses: actions/cache@v4
-        with:
-          path: |
-            /tmp/hugo_cache_runner/
-            node_modules/
-            modules/*/node_modules/
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod', '**/package-lock.json', '**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
+      # ──────────────────────────────────────────────────────────────
+      # TEMPORARILY DISABLE CACHES FOR A CLEAN BUILD (RUN ONCE)
+      # - name: Cache Hugo & node modules
+      #   uses: actions/cache@v4
+      #   with:
+      #     path: |
+      #       /tmp/hugo_cache_runner/
+      #       node_modules/
+      #       modules/*/node_modules/
+      #     key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod', '**/package-lock.json', '**/pnpm-lock.yaml') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-hugomod-
+      # ──────────────────────────────────────────────────────────────
 
       - name: Setup Pages
         id: pages
@@ -72,7 +75,6 @@ jobs:
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
-          # Optionally pass your premium license if needed to suppress attribution:
           HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir || true)"
