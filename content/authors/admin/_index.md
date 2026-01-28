@@ -1,39 +1,37 @@
 ---
 # Display name
-title: Leah Houseman
-
-# Name pronunciation (optional)
-# name_pronunciation:
+title: "Leah Houseman"
 
 # Full name (for SEO)
-first_name: Leah
-last_name: Houseman
+first_name: "Leah"
+last_name: "Houseman"
 
-# Status emoji
+# Status emoji / icon for the card (optional)
 status:
   icon: "static/media/logo.png"
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author in author lists?
 highlight_name: true
 
-Role/position/tagline
-role: PhD Student & Programs Officer
+# Role/position/tagline
+role: "PhD Student & Programs Officer"
 
-# Organizations/Affiliations to display in Biography blox
+# Short bio/summary (moved your second org line here rather than making it a broken org entry)
+bio: "Exploring disability, adulthood transitions, and social determinants through data-driven insights and policy-focused analytics."
+
+# Organizations / affiliations
 organizations:
-  - name: University of Saskatchewan
+  - name: "University of Saskatchewan"
     url: "https://artsandscience.usask.ca/sociology/students/graduates/leah-houseman.php"
-  - name: Exploring disability, adulthood transitions, and social determinants through data-driven insights and policy-focused analytics.
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Social profiles
 profiles:
   - icon: at-symbol
     url: "mailto:leah.houseman@usask.ca"
-    label: E-mail Me
+    label: "E-mail Me"
   - icon: brands/github
     url: "https://github.com/l-houseman"
   - icon: brands/linkedin
@@ -44,148 +42,129 @@ profiles:
     url: "https://orcid.org/0009-0009-7918-3754"
 
 education:
-  - area: PhD Student Sociology
-    institution: University of Saskatchewan
-    date_start: 2024-09-09
-    #date_end: ""
+  - area: "PhD Student Sociology"
+    institution: "University of Saskatchewan"
+    date_start: "2024-09-09"
     summary: |
       Expected completion 2028.
-
       Thesis on disability and emerging adulthood. Supervised by Dr. Laura Wright.
-    # button:
-    #  text: 'Read Thesis'
-    # url: 'https://example.com'
 
-  - area: MA Sociology
-    institution: University of Saskatchewan
-    date_start: ""
-    date_end: 2024-11-12
+  - area: "MA Sociology"
+    institution: "University of Saskatchewan"
+    # date_start: ""   # remove truly empty dates or supply a value
+    date_end: "2024-11-12"
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-  - area: BA(Hons) Sociology
-    institution: University of Saskatchewan
-    date_start: ""
-    date_end: 2022-04-04
+  - area: "BA(Hons) Sociology"
+    institution: "University of Saskatchewan"
+    date_end: "2022-04-04"
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-  - area: BA Political Studies
-    institution: University of Saskatchewan
-    date_start: ""
-    date_end: 2016-11-11
+  - area: "BA Political Studies"
+    institution: "University of Saskatchewan"
+    date_end: "2016-11-11"
     summary: |
       Minor: Crime, Law & Justice
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-  - position: Programs Officer
-    # icon: 'brands/my_company'
-    #n your author profile (content/authors/admin/_index.md), create an icon option under your organizations or education item and point it to the desired logo you uploaded. For example, icon: 'brands/my_company' would display my_company.svg from your assets/media/icons/brands/ folder.
-    company_name: Research Acceleration and Strategic Initiatives
+  - position: "Programs Officer"
+    company_name: "Research Acceleration and Strategic Initiatives"
     company_url: "https://vpresearch.usask.ca/rasi/index.php"
-    company_logo: ""
-    date_start: 2021-01-01
-    date_end: ""
+    date_start: "2021-01-01"
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ""
-    company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+
+  - position: "Backend Software Engineer"
+    company_name: "X"
+    date_start: "2016-01-01"
+    date_end: "2020-12-31"
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: "Technical Skills"
     items:
-      - name: Python
+      - name: "Python"
         description: ""
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: "Data Science"
         description: ""
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: "SQL"
         description: ""
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: "Hobbies"
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
+      - name: "Hiking"
         description: ""
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: "Cats"
         description: ""
         percent: 100
         icon: cat
-      - name: Photography
+      - name: "Photography"
         description: ""
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: "English"
     percent: 100
-  - name: French
+  - name: "French"
     percent: 25
-  - name: American Sign Language
+  - name: "American Sign Language"
     percent: 50
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: SSHRC CGS-D
+  - title: "SSHRC CGS-D"
     url: "https://www.coursera.org/learn/neural-networks-deep-learning"
     date: "2023-11-25"
-    awarder: SSHRC
+    awarder: "SSHRC"
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+
+  - title: "Blockchain Fundamentals"
     url: "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
     date: "2023-07-01"
-    awarder: edX
+    awarder: "edX"
     icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+
   - title: "Object-Oriented Programming in R"
     url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
     certificate_url: "https://www.datacamp.com"
     date: "2023-01-21"
-    awarder: datacamp
+    awarder: "datacamp"
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate course using the S3 and R6 systems.
 ---
-
