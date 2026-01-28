@@ -1,34 +1,34 @@
 ---
-# Display name
+Display name
 title: Leah Houseman
 
 # Name pronunciation (optional)
 name_pronunciation: ""
 
-# Full name (for SEO)
+Full name (for SEO)
 first_name: Leah
 last_name: Houseman
 
-# Status emoji
+Status emoji
 status:
-  icon: ""
+  icon: "static/media/logo.png"
 
-# Is this the primary user of the site?
+Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
+Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
+Role/position/tagline
 role: PhD Student & Programs Officer
 
-# Organizations/Affiliations to display in Biography blox
+Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Saskatchewan
     url: "https://artsandscience.usask.ca/sociology/students/graduates/leah-houseman.php"
   - name: Exploring disability, adulthood transitions,and social determinants through data-driven insights and policy-focused analytics.
 
-# Social network links
+Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
@@ -38,6 +38,8 @@ profiles:
     url: "https://github.com/l-houseman"
   - icon: brands/linkedin
     url: "https://www.linkedin.com/in/leah-houseman"
+  - icon: brands/bluesky
+    url: "https://bsky.app/profile/leah-houseman.bsky.social"
   - icon: academicons/orcid
     url: "https://orcid.org/0009-0009-7918-3754"
 
