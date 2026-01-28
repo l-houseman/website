@@ -8,7 +8,7 @@ last_name: "Houseman"
 
 # Status emoji / icon for the card (optional)
 status:
-  icon: "static/media/logo.png"
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
