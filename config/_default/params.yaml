@@ -2,7 +2,7 @@ hugoblox:
   schema: "2.0"
   identity:
     name: Leah Houseman
-    logo: "media/logo.png"
+    logo: "static/media/logo.png"
     type: person
     tagline: PhD Student & Programs Officer | USask
     organization: University of Saskatchewan
