@@ -4,7 +4,8 @@ hugoblox:
     name: Leah Houseman
     type: person
     tagline: PhD Student & Programs Officer | USask
-    description: ""
+    organization: University of Saskatchewan
+    description: Exploring disability, adulthood transitions, and social determinants through data-driven insights and policy-focused analytics.
 
   #Theme and layout
   theme:
@@ -12,7 +13,7 @@ hugoblox:
     pack: dracula
     colors:
       primary: ""
-      secondary: ""
+      secondary: "#36451E"
       neutral: ""
     colors_light:
       primary: ""
@@ -22,7 +23,9 @@ hugoblox:
   layout:
     radius: md
     spacing: comfortable
-    avatar_shape: circle
+    avatar_shape: square
+  pro:
+    hide_attribution: true
 
 # Localization
 locale:
