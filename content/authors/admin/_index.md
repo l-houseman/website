@@ -26,7 +26,9 @@ role: PhD Student & Programs Officer
 organizations:
   - name: University of Saskatchewan
     url: "https://artsandscience.usask.ca/sociology/students/graduates/leah-houseman.php"
-  - name: Exploring disability, adulthood transitions, and social determinants through data-driven insights and policy-focused analytics.
+  - name: Exploring disability, adulthood transitions,
+       and social determinants through data-driven 
+          insights and policy-focused analytics.
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
