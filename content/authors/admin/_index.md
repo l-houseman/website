@@ -17,8 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: "PhD Student & Programs Officer
-    Exploring disability, adulthood transitions, and social determinants through data-driven insights and policy-focused analytics."
+role: "PhD Student & Programs Officer"
 
 # Short bio/summary (moved your second org line here rather than making it a broken org entry)
 bio: "Exploring disability, adulthood transitions, and social determinants through data-driven insights and policy-focused analytics."
