@@ -5,6 +5,7 @@
 
 title: "Leah Houseman" # Website name
 baseURL: "https://leahhouseman.ca" # Website URL
+logo: "assets/media/LH-logo.png"
 
 ############################
 ## LANGUAGE
