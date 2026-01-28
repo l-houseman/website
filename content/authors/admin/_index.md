@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Leah Houseman | Sociologist
+title: Leah Houseman
 
 # Name pronunciation (optional)
 name_pronunciation: ""

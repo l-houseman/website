@@ -7,11 +7,11 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Research
+  - name: Research & Presentations
     url: /publication
     weight: 11
-  - name: Talks
-    url: /event
+  - name: Blog
+    url: /post
     weight: 12
   - name: Experience
     url: experience/
