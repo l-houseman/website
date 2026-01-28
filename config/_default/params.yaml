@@ -1,7 +1,7 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: Leah Houseman | Sociologist
+    name: Leah Houseman
     type: person
     tagline: PhD Student & Programs Officer | USask
     organization: University of Saskatchewan
@@ -12,7 +12,7 @@ hugoblox:
     mode: system
     pack: dracula
     colors:
-      primary: ""
+      primary: "36451E"
       secondary: "#36451E"
       neutral: ""
     colors_light:
@@ -46,7 +46,8 @@ locale:
     style: minimal
     text: "Leah Houseman 2026"
     language_switcher: true
-    attribution: false
+    pro:
+      hide_attribution: true
 
   #Copyright
   copyright:
