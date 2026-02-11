@@ -8,7 +8,7 @@ last_name: "Houseman"
 
 # Status emoji / icon for the card (optional)
 status:
-  icon: 
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -167,4 +167,6 @@ awards:
     icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate course using the S3 and R6 systems.
+
 ---
+
