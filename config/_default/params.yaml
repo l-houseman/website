@@ -27,6 +27,10 @@ hugoblox:
     avatar_shape: square
   pro:
     hide_attribution: true
+  copyright:
+    notice: © {year}, {name}, {license}
+  footer:
+    text: Leah Houseman | leah.houseman@usask.ca | 2026
 
 # Localization
 locale:
