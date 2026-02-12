@@ -1,4 +1,4 @@
-name: Upgrade HugoBlox
+name: Upgrade HugoBlox 
 
 on:
   workflow_dispatch:
