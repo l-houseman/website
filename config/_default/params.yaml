@@ -7,7 +7,8 @@ hugoblox:
     tagline: PhD Student & Programs Officer | USask
     organization: University of Saskatchewan
     description: Exploring disability, adulthood transitions, and social determinants through data-driven insights and policy-focused analytics.
-
+    pro: 
+      hide_attribution: true
   #Theme and layout
   theme:
     mode: system
