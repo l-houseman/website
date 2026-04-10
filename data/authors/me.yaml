@@ -2,54 +2,52 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Leah Houseman
+  given: Leah
+  family: Houseman
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: she/her
 postnominals:
-  - PhD
-  - MIEEE
+  - MA
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: ""
+role: PhD Student & Programs Officer
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I specialize in disability studies, adulthood emergence, and applied data analytics, combining sociological theory with advanced quantitative methods to address health and social inequities. My work bridges research and practice using R and Python for data wrangling, visualization, and reproducible workflows. I am passionate about translating complex demographic and health data into actionable insights for policy and practice. My goal is to leverage these skills to contribute to evidence-based policy and innovative solutions that address health and social inequities, particularly for populations navigating disability and transitions to adulthood.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Saskatchewan
+    url: https://artsandscience.usask.ca/sociology/students/graduates/leah-houseman.php
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: 'mailto:leah.houseman@usask.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/l-houseman
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://www.linkedin.com/in/leah-houseman
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/leah-houseman.bsky.social
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0009-7918-3754
 
-interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+Research Interests:
+  - Social Demography
+  - Disability Studies
+  - Accessibility & Curb Cut Effects
+  - Emerging Adulthood
+  - Fertility Intentions vs. Realization
+  - Life Course Theory
+  - Aging Populations
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD Student Sociology
+    institution: University of Saskatchewan
+    url: https://leahhouseman.ca/experience/
+    start: 2024
+    end: ''
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
