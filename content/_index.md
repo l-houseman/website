@@ -26,13 +26,10 @@ sections:
         interests: ''
     
     # Use the new Gradient Mesh which automatically adapts to the selected theme colors
-    # design:
-    #  background:
-    #    gradient_mesh:
-    #      enable: true
-    
-    design:
+     design:
       background:
+        gradient_mesh:
+          enable: true
         image:
           filename: "purplepaper.png"
           filters:
@@ -48,7 +45,7 @@ sections:
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        shape: rounded # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: '👋 Hi'
