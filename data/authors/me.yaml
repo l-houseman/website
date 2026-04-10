@@ -91,10 +91,10 @@ experience:
     url: https://vpresearch.usask.ca/contacts/our-people/leah-houseman.php
     start: 2023-04
     summary: |
-      **Responsibilities include:**
+      **Highlights:**
       - Coordinating USask's Tri-Agency Undergraduate Student Research Awards Competition
       - Developing communications content across several research incubation initiatives 
-      - Lead strategic process development and efficiency implementation
+      - Leading strategic process development and efficiency implementation
    # button:
    #   text: View portfolio
    #   url: /
@@ -104,7 +104,43 @@ experience:
     start: 2025
     end: 2026
     summary: 
-
+  - role: Research Assistant
+    org: Undergraduate Research Initiative, Research Acceleration and Strategic Initiatives
+    start: 2022-08
+    end: 2023-04
+    summary: |
+     **Highlights:**
+     - Employed data analysis and report writing skills to develop and deliver evaluation scans and reports, including an in-depth review of the FYRE program 
+     - Supported coordination and delivery of events, workshops, and the annual research poster symposium
+     - Independently managed social media presence and implemented a new newsletter distribution method
+  - role: Course Materials & General Reference Buyer
+    org: Shop USask Booksstore, University of Saskatchewan
+    start: 2019-03
+    end: 2022-08
+    summary: |
+      **Highlights:**
+      - Ensured course materials for 70+ course codes departments were procured and made available for purchase within strict time constraints
+      - Recommended and implemented process improvements
+      - Developed and maintained professional relationships with faculty, department administrators, and other internal and external stakeholders
+  - role: Clerical Assistant
+    org: Shop USask Booksstore, University of Saskatchewan
+    start: 2018-02
+    end: 2019-03
+    summary: |
+      **Highlights:**
+      - Co-managed textbook inventory system
+      - Conducted product research and maintained electronic product records
+      - Served as backup to the Bookstore Customer Service Supervisor
+  - role: Branch Manager
+    org: The Wireless Age Telecommunications
+    start: 2016-01
+    end: 2028-01
+    summary: |
+      **Highlights:**
+      - Interviewed, hired, and mentored commission sales employees
+      - Delivered record sales achievement and customer satisfaction scores
+      - Ensured overall operational success of the branch
+      - Consistently performed at a high level, obtained multiple performance recognitions
 
 skills:
   - name: Skills
