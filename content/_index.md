@@ -32,10 +32,10 @@ sections:
         image:
           filename: "purplepaper.png"
           filters:
-            brightness: 0.5
+            brightness: 0.6
             blur: 2px
             contrast: 1.2
-            saturate 0.8
+            saturate: 0.8
           size: "cover"
           position: "center"
           parallax: false
