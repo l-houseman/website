@@ -26,13 +26,14 @@ sections:
         interests: ''
       design:
         background:
+          color: "black:
         image:
-        filename: "purplepaper.png"
-        filters:
-          brightness: 0.4
-        size: "cover"
-        position: "center"
-        parallax: false
+          filename: "purplepaper.png"
+          filters:
+            brightness: 0.4
+          size: "cover"
+          position: "center"
+          parallax: false
 
       # Name heading sizing to accommodate long or short names
       name:
