@@ -16,7 +16,7 @@ sections:
       username: me
       text: ''
       background:
-        color: "black"
+        #color: "black"
         image:
           filename: "purplepaper.png"
           filters:
