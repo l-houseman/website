@@ -34,12 +34,11 @@ sections:
         education: ''
         interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
-     # background:
-     #   gradient_mesh:
-     #     enable: false
-      css_class: "dark"
+       Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
+        gradient_mesh:
+          enable: true
+      css_class: "dark"
         color: "black"
         image:
           filename: "purplepaper.png"
