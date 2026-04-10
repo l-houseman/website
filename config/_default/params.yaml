@@ -129,7 +129,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: "Leah Houseman"
+    title: "Leah Houseman | Sociologist"
     # For local_business identity type only
     #location:
      # address:
