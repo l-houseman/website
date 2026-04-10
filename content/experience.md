@@ -26,7 +26,7 @@ sections:
     content:
       title: Certifications
       username: me
-   - block: resume-awards
+  - block: resume-awards
     content:
       title: Awards
       username: me
