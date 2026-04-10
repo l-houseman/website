@@ -27,6 +27,8 @@ sections:
     design:
       css_class: "dark"
       background:
+        gradient_mesh:
+          enable: true
         color: "black"
         image:
           filename: "purplepaper.png"
