@@ -129,7 +129,10 @@ skills:
         description: Member
         icon: light-bulb
   - name: Volunteering
-
+    items:
+      - label: Vice President
+        description: Sociology Graduate Student Association (SGSA) | USask | Sept 2023 - Present
+        icon: light-bulb
 languages:
   - name: English
     label: Native
