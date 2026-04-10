@@ -70,7 +70,7 @@ education:
 
       **Courses included:**
       - Advanced Theory
-      - Advanced Methodolgy 
+      - Advanced Methodology 
       - Family: Marriage
       - Advanced Social Policy 
   - degree: BA (Hons) Sociology
@@ -88,12 +88,12 @@ education:
 experience:
   - role: Programs Officer
     org: Research Acceleration and Strategic Initiatives
-    company_url: https://vpresearch.usask.ca/contacts/our-people/leah-houseman.php
+    url: https://vpresearch.usask.ca/contacts/our-people/leah-houseman.php
     start: 2023-04
     summary: |
       Responsibilities include:
       - Coordinating USask's Tri-Agency Undergraduate Student Research Awards Competition
-      - Developing communications content across several research incubation intitiatves 
+      - Developing communications content across several research incubation initiatives 
       - Lead strategic process development and efficiency implementation
    # button:
    #   text: View portfolio
