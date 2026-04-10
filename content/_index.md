@@ -38,6 +38,7 @@ sections:
      # background:
      #   gradient_mesh:
      #     enable: false
+      css_class: "dark"
       background:
         color: "black"
         image:
