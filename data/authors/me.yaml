@@ -118,11 +118,8 @@ skills:
   - name: Research & Communication
     items:
       - label: Academic Writing
-        level: 5
       - label: Conference Presentations
-        level: 4
       - label: Grant Proposals
-        level: 4
   - name: Organizations
     items:
       - label: Canadian Sociological Association
@@ -133,13 +130,14 @@ skills:
       - label: Vice President
         description: Sociology Graduate Student Association (SGSA) | USask | Sept 2023 - Present
         icon: light-bulb
-languages:
-  - name: English
-    label: Native
-  - name: American Sign Language
-    label: Intermediate
-  - name: French
-    label: Beginner
+  - name: Languages
+    items: 
+      - label: English
+        description: Native
+      - label: American Sign Language
+        description: Intermediate
+      - label: French
+        description: Beginner
 
 awards:
   - title: Best Paper Award
