@@ -88,7 +88,7 @@ education:
 experience:
   - role: Programs Officer
     org: Research Acceleration and Strategic Initiatives
-    org_url: https://vpresearch.usask.ca/contacts/our-people/leah-houseman.php
+    company_url: https://vpresearch.usask.ca/contacts/our-people/leah-houseman.php
     start: 2023-04
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
