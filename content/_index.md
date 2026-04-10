@@ -29,7 +29,7 @@ sections:
      # background:
       #  gradient_mesh:
        #   enable: true
-      background:
+        background:
         image:
         filename: "purplepaper.png"
         filters:
