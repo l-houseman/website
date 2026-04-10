@@ -178,6 +178,8 @@ skills:
   certifications:
   - name: Certifications
     items:
+      - label: Name of Certification
+        icon: light-bulb
 
 awards:
   - title: Best Paper Award
