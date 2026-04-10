@@ -24,10 +24,13 @@ sections:
         about: ''
         education: ''
         interests: ''
+    
+     # Use the new Gradient Mesh which automatically adapts to the selected theme colors
+    # design:
+    #  background:
+    #    gradient_mesh:
+    #      enable: true
     design:
-      background:
-        gradient_mesh:
-          enable: false
         image:
           filename: "purplepaper.png"
           filters:
