@@ -26,9 +26,9 @@ sections:
         interests: ''
     design:
       css_class: "dark"
-        background:
-          color: "black:
-          image:
+      background:
+        color: "black"
+        image:
           filename: "purplepaper.png"
           filters:
             brightness: 0.4
