@@ -15,6 +15,17 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
+      # background
+    design:
+      css_class: "dark"
+      background:
+        color: "black"
+        image: "purplepaper.png"
+          filters: brightness: 0.4
+      size: "cover"
+      position: "center"
+      parallax: false
+    
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -27,7 +38,7 @@ sections:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
-          enable: true
+          enable: false
 
       # Name heading sizing to accommodate long or short names
       name:
@@ -39,7 +50,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '👋 Hi'
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
