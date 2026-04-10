@@ -24,9 +24,8 @@ sections:
         about: ''
         education: ''
         interests: ''
-    
-    # Use the new Gradient Mesh which automatically adapts to the selected theme colors
-     design:
+      design:
+        # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
