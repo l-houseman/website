@@ -24,17 +24,17 @@ sections:
         about: ''
         education: ''
         interests: ''
-      design:
-        css_class: "dark"
-        background:
-          color: "black:
-        image:
-          filename: "purplepaper.png"
-          filters:
-            brightness: 0.4
-          size: "cover"
-          position: "center"
-          parallax: false
+    design:
+      css_class: "dark"
+      background:
+        color: "black:
+      image:
+        filename: "purplepaper.png"
+        filters:
+          brightness: 0.4
+        size: "cover"
+        position: "center"
+        parallax: false
 
       # Name heading sizing to accommodate long or short names
       name:
