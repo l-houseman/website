@@ -21,9 +21,8 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: '👋 Hi'
         education: ''
-        interests: ''
+        research interests: ''
     design:
       css_class: "dark"
       background:
@@ -33,7 +32,10 @@ sections:
         image:
           filename: "purplepaper.png"
           filters:
-            brightness: 0.2
+            brightness: 0.5
+            blur: 2px
+            contrast: 1.2
+            saturate 0.8
           size: "cover"
           position: "center"
           parallax: false
