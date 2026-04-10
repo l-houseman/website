@@ -32,15 +32,13 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: dark
+    mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack:
-      light: "dracula"
-      dark: "dracula"
+    pack: "dracula"
     # Optional: Override theme pack colors
     colors:
       primary: ""                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: "purple"
+      secondary: ""
       neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
@@ -63,6 +61,10 @@ hugoblox:
   typography:
     # Theme pack: name from data/fonts/
     pack: "modern"
+        # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
+    font: "sans"
+    # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
+    size: "md"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
