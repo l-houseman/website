@@ -33,7 +33,7 @@ sections:
         image:
           filename: "purplepaper.png"
           filters:
-            brightness: 0.4
+            brightness: 0.2
           size: "cover"
           position: "center"
           parallax: false
