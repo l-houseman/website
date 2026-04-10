@@ -174,7 +174,7 @@ skills:
         description: Intermediate
       - label: French
         description: Beginner
-
+        
   certifications:
   - name: Certifications
     items:
