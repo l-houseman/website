@@ -34,7 +34,7 @@ hugoblox:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: light
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "contrast"
+    pack: "cupcake"
       #light: "contrast"
       #dark: "dracula"
     # Optional: Override theme pack colors
