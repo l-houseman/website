@@ -26,19 +26,14 @@ sections:
     design:
       css_class: "dark"
       background:
-        gradient_mesh:
-          enable: true
         color: "black"
         image:
           filename: "purplepaper.png"
-          parallax: false
-          size: cover
-          position center
           filters:
-            brightness: 0.6
-            blur: 2px
-            contrast: 1.2
-            saturate: 0.8
+            brightness: 0.4
+          size: "cover"
+          position: "center"
+          parallax: false
 
       # Name heading sizing to accommodate long or short names
       name:
