@@ -29,13 +29,13 @@ sections:
       background:
         gradient_mesh:
           enable: true
-        image:
-          filename: "purplepaper.png"
-          filters:
-            brightness: 0.4
-          size: "cover"
-          position: "center"
-          parallax: false
+      image:
+        filename: "purplepaper.png"
+        filters:
+          brightness: 0.4
+        size: "cover"
+        position: "center"
+        parallax: false
 
       # Name heading sizing to accommodate long or short names
       name:
