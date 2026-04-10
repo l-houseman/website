@@ -61,10 +61,6 @@ hugoblox:
   typography:
     # Theme pack: name from data/fonts/
     pack: "modern"
-        # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
-    font: "sans"
-    # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
-    size: "md"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
