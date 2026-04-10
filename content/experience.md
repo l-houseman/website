@@ -22,10 +22,17 @@ sections:
     content:
       title: Skills
       username: me
-  - block: resume-skills
+- block: markdown
+  ---
+title: My Page
+type: landing
+
+sections:
+  - block: markdown
     content:
-      title: Certifications
+      title: "Certifications"
       username: me
+---
   - block: resume-awards
     content:
       title: Awards
