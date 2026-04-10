@@ -32,7 +32,6 @@ sections:
         url: uploads/resume.pdf
       headings:
         interests: ''
-        education: ''
 
       # Name heading sizing to accommodate long or short names
       name:
