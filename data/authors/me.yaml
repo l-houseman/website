@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Leah Houseman
+  display: Leah Houseman, MA
   given: Leah
   family: Houseman
   alternate: ''  # Example: 王伟
