@@ -25,6 +25,7 @@ sections:
         education: ''
         interests: ''
       design:
+        css_class: "dark"
         background:
           color: "black:
         image:
