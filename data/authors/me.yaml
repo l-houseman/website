@@ -51,7 +51,7 @@ education:
     summary: |
       Current PhD Student specializing in the _emergence to adulthood, disability, and social policy curb cut effects_.  Supervised by [Dr. Laura Wright](https://artsandscience.usask.ca/profile/LWright). 
 
-      Comprehensive Exam (in progress): _Disability models, definitions, lifecourses, and transitions_.
+      **Comprehensive Exam (in progress):** _Disability models, definitions, lifecourses, and transitions_.
 
       **Courses included:**
       - Advanced Theory and Method of Social Analysis
@@ -91,7 +91,7 @@ experience:
     url: https://vpresearch.usask.ca/contacts/our-people/leah-houseman.php
     start: 2023-04
     summary: |
-      Responsibilities include:
+      **Responsibilities include:**
       - Coordinating USask's Tri-Agency Undergraduate Student Research Awards Competition
       - Developing communications content across several research incubation initiatives 
       - Lead strategic process development and efficiency implementation
@@ -99,22 +99,22 @@ experience:
    #   text: View portfolio
    #   url: /
    #   icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - role: CAnD3 Fellow
+    org: Consortium on Analytics for Data-Driven Decision-Making
+    start: 2025
+    end: 2026
+    summary: 
+
 
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
+      - label: Data Wrangling, Analysis, and Visualization (Python, R, Stata, SPSS, Excel)
+        icon: code-bracket
+      - label: Graphic and Communications Content Creation
+        icon: chart-bar
+      - label: Project and Process Management, Improvement, and Automation
+        icon: circle-stack
   - name: Research & Communication
     items:
       - label: Academic Writing
@@ -123,14 +123,20 @@ skills:
         level: 4
       - label: Grant Proposals
         level: 4
+  - name: Organizations
+    items:
+      - label: Canadian Sociological Association
+        description: Member
+        icon: light-bulb
+  - name: Volunteering
 
 languages:
   - name: English
-    level: 5
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+  - name: American Sign Language
+    label: Intermediate
+  - name: French
+    label: Beginner
 
 awards:
   - title: Best Paper Award
