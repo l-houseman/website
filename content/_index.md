@@ -15,15 +15,15 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      background:
-        #color: "black"
-        image:
-          filename: "purplepaper.png"
-          filters:
-            brightness: 0.4
-          size: "cover"
-          position: "center"
-          parallax: true
+     # background:
+     #   #color: "black"
+     #   image:
+     #     filename: "purplepaper.png"
+     #     filters:
+     #       brightness: 0.4
+     #     size: "cover"
+     #     position: "center"
+     #     parallax: false
 
       # Show a call-to-action button under your biography? (optional)
       button:
@@ -35,9 +35,18 @@ sections:
         interests: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
+     # background:
+     #   gradient_mesh:
+     #     enable: false
       background:
-        gradient_mesh:
-          enable: false
+        color: "black"
+        image:
+          filename: "purplepaper.png"
+          filters:
+            brightness: 0.4
+          size: "cover"
+          position: "center"
+          parallax: false
 
       # Name heading sizing to accommodate long or short names
       name:
