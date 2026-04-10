@@ -15,15 +15,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-     # background:
-     #   #color: "black"
-     #   image:
-     #     filename: "purplepaper.png"
-     #     filters:
-     #       brightness: 0.4
-     #     size: "cover"
-     #     position: "center"
-     #     parallax: false
 
       # Show a call-to-action button under your biography? (optional)
       button:
@@ -36,7 +27,7 @@ sections:
     design:
       background:
         gradient_mesh:
-          enable: true
+          enable: false
         image:
           filename: "purplepaper.png"
           filters:
