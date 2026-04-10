@@ -91,11 +91,14 @@ experience:
     company_url: https://vpresearch.usask.ca/contacts/our-people/leah-houseman.php
     start: 2023-04
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
+      Responsibilities include:
+      - Coordinating USask's Tri-Agency Undergraduate Student Research Awards Competition
+      - Developing communications content across several research incubation intitiatves 
+      - Lead strategic process development and efficiency implementation
+   # button:
+   #   text: View portfolio
+   #   url: /
+   #   icon: hero/arrow-down-tray
   - role: AI Research Intern
     org: OpenAI
     start: 2019-06-01
