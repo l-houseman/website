@@ -32,6 +32,7 @@ sections:
     #      enable: true
     
     design:
+      background:
         image:
           filename: "purplepaper.png"
           filters:
