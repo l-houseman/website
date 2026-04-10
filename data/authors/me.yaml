@@ -175,6 +175,10 @@ skills:
       - label: French
         description: Beginner
 
+  certifications:
+  - name: Certifications
+    items:
+
 awards:
   - title: Best Paper Award
     awarder: NeurIPS
