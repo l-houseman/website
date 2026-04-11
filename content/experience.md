@@ -22,9 +22,30 @@ sections:
     content:
       title: Skills
       username: me
-  - block: resume-skills
+  - block: markdown
     content:
       title: Certifications
+      text: |
+        <div class="row">
+          <!-- Certification 1 -->
+          <div class="col-12 col-sm-6 mb-3">
+            <div class="featurette">
+              <div class="featurette-icon"><i class="fab fa-aws"></i></div>
+              <h3>AWS Certified Solutions Architect</h3>
+              <p>Issued by Amazon Web Services</p>
+            </div>
+          </div>
+          <!-- Certification 2 -->
+          <div class="col-12 col-sm-6 mb-3">
+            <div class="featurette">
+              <div class="featurette-icon"><i class="fab fa-google"></i></div>
+              <h3>Google Cloud Professional</h3>
+              <p>Issued by Google Cloud</p>
+            </div>
+          </div>
+        </div>
+    design:
+      columns: '1'
   - block: resume-awards
     content:
       title: Awards
