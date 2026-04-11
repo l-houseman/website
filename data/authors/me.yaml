@@ -181,6 +181,8 @@ certifications:
     items:
       - label: Name of Certification
         icon: light-bulb
+      - label: 2nd certification
+        icon: light-bulb
 
 awards:
   - title: Best Paper Award
