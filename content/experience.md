@@ -24,7 +24,7 @@ sections:
       username: me
   - block: markdown
     content:
-      title: certifications
+      title: Certifications
       username: me
       design:
         columns: "2"
