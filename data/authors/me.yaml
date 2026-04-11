@@ -175,8 +175,7 @@ skills:
       - label: French
         description: Beginner
         
-
-certifications:
+skills:
   - name: Certifications
     items:
       - label: Name of Certification
