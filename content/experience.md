@@ -22,7 +22,7 @@ sections:
     content:
       title: Skills
       username: me
-- block: markdown
+  - block: markdown
     content:
       title: "Certifications"
       username: me
