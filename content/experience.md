@@ -24,8 +24,13 @@ sections:
       username: me
   - block: markdown
     content:
-      title: "Certifications"
+      title: certifications
       username: me
+      design:
+        columns: "2"
+        background:
+          color: "white"
+
   - block: resume-awards
     content:
       title: Awards
