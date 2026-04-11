@@ -22,15 +22,9 @@ sections:
     content:
       title: Skills
       username: me
-  - block: markdown
+  - block: resume-skills
     content:
       title: Certifications
-      username: me
-      design:
-        columns: "2"
-        background:
-          color: "white"
-
   - block: resume-awards
     content:
       title: Awards
