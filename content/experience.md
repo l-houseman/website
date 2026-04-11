@@ -23,16 +23,9 @@ sections:
       title: Skills
       username: me
 - block: markdown
-  ---
-title: My Page
-type: landing
-
-sections:
-  - block: markdown
     content:
       title: "Certifications"
       username: me
----
   - block: resume-awards
     content:
       title: Awards
