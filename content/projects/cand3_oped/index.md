@@ -43,9 +43,9 @@ The UN Committee on the Rights of Persons with Disabilities has taken notice. In
 
 As a sociologist working in disability studies and social demography, I believe our discipline has a critical role to play in this conversation. Sociology has long studied the social determinants of health, the politics of suicide, and the structural roots of inequality. Yet sociological voices have been largely absent from the MAiD debate. That must change.
 To move forward responsibly, Canada must:
-•	Expand and standardize MAiD data collection about income, housing status, and genuine access to care and support.
-•	Delay further eligibility expansions, including the planned 2027 expansion for mental illness, until this data is available and analyzed.
-•	Invest in accessible, timely supports, including palliative care, disability benefits, and housing, to ensure that MAiD is never a substitute for basic needs.
+- Expand and standardize MAiD data collection about income, housing status, and genuine access to care and support.
+- Delay further eligibility expansions, including the planned 2027 expansion for mental illness, until this data is available and analyzed.
+- Invest in accessible, timely supports, including palliative care, disability benefits, and housing, to ensure that MAiD is never a substitute for basic needs.
 
 We need interdisciplinary research partnerships, improved data collection, and a renewed commitment to the principle that all Canadians, regardless of ability or income, deserve to live with dignity before they are offered the option to die with dignity. We must ask ourselves: What does it say about our society when death is easier to access than support? Until we can answer that question with confidence and with data, we cannot claim to be offering true choice. 
 
