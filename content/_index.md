@@ -27,7 +27,7 @@ sections:
           position: "center"
           parallax: false
       # Show a call-to-action button under your biography? (optional)
-      button:
+      button: true
         text: Download Resume
         url: uploads/resume.pdf
       headings:
