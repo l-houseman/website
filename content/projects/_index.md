@@ -12,10 +12,10 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-    #  filters:
-    #    folders:
-    #      - projects
+      text: I love a good project. Here is a selection of my recent projects. 
+      filters:
+        folders:
+          - projects
     design:
       view: article-grid
       fill_image: false
