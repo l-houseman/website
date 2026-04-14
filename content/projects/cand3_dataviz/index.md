@@ -1,7 +1,7 @@
 ---
 title: CAnD3 Data Viz
 date: 2025-08-30
-#links:
+links:
   - name: View Data Viz
     url: uploads/data-viz-challenge-leah-tugce.pdf
     icon: hero/chart-bar
