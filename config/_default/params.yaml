@@ -87,17 +87,17 @@ hugoblox:
     # Stick to top on scroll
     sticky: true
     # Menu alignment
-    align: center                       # left | center | right
+    align: right                       # left | center | right
     # Feature toggles
-    search: true
+    search: false
     theme_toggle: true
     theme_picker: false
     language_switcher: true
     # Call-to-action button
     cta:
-      enable: false
-      text: ""
-      url: ""
+      enable: true
+      text: "Download Resume"
+      url: "uploads/resume.pdf"
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
