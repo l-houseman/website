@@ -31,6 +31,8 @@ sections:
         text: Download Resume
         url: uploads/resume.pdf
       headings:
+        about: ''
+        education: ''
         interests: ''
 
       # Name heading sizing to accommodate long or short names
