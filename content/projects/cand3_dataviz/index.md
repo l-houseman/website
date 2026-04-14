@@ -14,6 +14,6 @@ tags:
   - Research
 
 ---
-I led a complete redesign and automation of a large‑scale scholarship competition with 200 applications and a 35‑member adjudication committee, replacing a fragile, manual workflow with an integrated system built using Python, VBA, Power Query, PowerShell, Microsoft Forms, and Excel. The changes reduced administrative labour by at least 50% over a five‑month cycle, produced a fully repeatable process for future years, and delivered capacity improvement equivalent to half a full‑time staff position. 
+At the beginning of my CAnD3 journey, Tuğce Kırmacı Kamber and I worked on one of our first projects, leveraging skills we learned at the CAnD3 PopAging Data Viz workshops in August 2025. The resulting data viz presentation and summary report are available to view [here](purplepaper.png). 
 
 <!--more-->
