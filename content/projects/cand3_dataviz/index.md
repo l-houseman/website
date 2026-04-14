@@ -6,8 +6,8 @@ date: 2026-04-01
 #    url: https://github.com/l-houseman/Scholarship-Administration
 #    icon: brands/github
 tags:
-  - Data Visualization
   - CAnD3
+  - Data Visualization
   - Research
 
 ---
