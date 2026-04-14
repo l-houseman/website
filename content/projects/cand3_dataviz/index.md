@@ -2,9 +2,9 @@
 title: CAnD3 Data Viz
 date: 2025-08-30
 #links:
-#  - name: Repo
-#    url: https://github.com/l-houseman/Scholarship-Administration
-#    icon: brands/github
+  - name: View Data Viz
+    url: uploads/data-viz-challenge-leah-tugce.pdf
+    icon: hero/chart-bar
 
 categories: 
   - CAnD3
