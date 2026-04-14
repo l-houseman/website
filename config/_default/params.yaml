@@ -116,7 +116,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} Leah Houseman. This work is licensed under {license}"
+    notice: "© {year} Leah Houseman. All rights reserved."
     license:
       type: cc                          # cc | custom
       allow_derivatives: false
