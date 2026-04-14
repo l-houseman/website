@@ -20,7 +20,7 @@ sections:
       is_education_first: true
   - block: resume-skills
     content:
-      title: Skills
+      title: Skills, Certifications & Associations
       username: me
   - block: markdown
     content:
