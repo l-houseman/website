@@ -5,6 +5,9 @@ date: 2026-04-01
 #  - name: Repo
 #    url: https://github.com/l-houseman/Scholarship-Administration
 #    icon: brands/github
+
+categories: 
+  - CAnD3
 tags:
   - CAnD3
   - Data Visualization
