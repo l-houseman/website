@@ -80,6 +80,7 @@ education:
       Honours Thesis on _Early Pandemic Face Mask Refusal: Getting Informed, Social Media, and Face Mask Use in Canada_. Supervised by [Dr. Laura Wright](https://artsandscience.usask.ca/profile/LWright) and [Dr. Scott Thompson](https://artsandscience.usask.ca/profile/SThompson)
   - degree: BA Political Studies
     institution: University of Saskatchewan
+    end: 2016
     summary: Minor in Crime, Law, and Justice Studies
 
 experience:
@@ -169,6 +170,7 @@ skills:
         icon: light-bulb
       - label: Panellist
         description: Sociology Department Scholarship Tips and Tricks Session | USask | 2023; 2024
+        icon: light-bulb
       - label: Member
         description: Equity, Diversity, and Inclusion Committee | USask | 2023
         icon: light-bulb
@@ -178,14 +180,17 @@ skills:
       - label: Communications Director
         description: Sociology Undergraduate Student Association (SUSA) | USask | Sep 2021 - Aug 2022
         icon: light-bulb
-  - name: Languages
-    items: 
-      - label: English
-        description: Native
-      - label: American Sign Language
-        description: Intermediate
-      - label: French
-        description: Beginner
+  #- name: Languages
+  #  items: 
+  #    - label: English
+  #      description: Native
+  #      icon: hero/map
+  #    - label: American Sign Language
+  #      description: Intermediate
+  #      icon: hero/map
+  #    - label: French
+  #      description: Beginner
+  #      icon: hero/map
   - name: Certifications
     items:
       - label: MobilizeU Knowledge Mobilization
@@ -202,13 +207,13 @@ skills:
         icon: light-bulb
       - label: 'TCPS 2: CORE-2022 (Ethical Conduct for Research Involving Humans)'
         description: Government of Canada | 2022
+        icon: light-bulb
       - label: Sexual Violence Prevention and Response
         description: USask | 2022
         icon: light-bulb
       - label: Introduction to Intercultural Communication
         description: USask | 2022
         icon: light-bulb
-      - label: Service Best Saskatchewan 
 
 awards:
   - title: SSHRC Canada Graduate Scholarship - Doctoral
