@@ -81,8 +81,6 @@ education:
       Honours Thesis on _Early Pandemic Face Mask Refusal: Getting Informed, Social Media, and Face Mask Use in Canada_. Supervised by [Dr. Laura Wright](https://artsandscience.usask.ca/profile/LWright) and [Dr. Scott Thompson](https://artsandscience.usask.ca/profile/SThompson)
   - degree: BA Political Studies
     institution: University of Saskatchewan
-    start: ''
-    end: ''
     summary: Minor in Crime, Law, and Justice Studies
 
 experience:
@@ -143,7 +141,7 @@ experience:
       - Consistently performed at a high level, obtained multiple performance recognitions
 
 skills:
-  - name: Skills, Certifications, & Associations
+  - name: Skills
     items:
       - label: Data Wrangling, Analysis, and Visualization (Python, R, Stata, SPSS, Excel)
         icon: code-bracket
@@ -151,20 +149,35 @@ skills:
         icon: chart-bar
       - label: Project and Process Management, Improvement, and Automation
         icon: circle-stack
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-      - label: Conference Presentations
-      - label: Grant Proposals
   - name: Organizations
     items:
       - label: Canadian Sociological Association
         description: Member
         icon: light-bulb
-  - name: Volunteering
+      - label: Canadian Population Society
+        description: Member
+        icon: light-bulb
+      - label: British Sociological Association
+        description: Member
+        icon: light-bulb
+  - name: Volunteering & Academic Service
     items:
       - label: Vice President
         description: Sociology Graduate Student Association (SGSA) | USask | Sept 2023 - Present
+        icon: light-bulb
+      - label: Speaker
+        description: College of Graduate and Postdoctoral Studies Scholarship Advice Session | USask | 2024
+        icon: light-bulb
+      - label: Panellist
+        description: Sociology Department Scholarship Tips and Tricks Session | USask | 2023; 2024
+      - label: Member
+        description: Equity, Diversity, and Inclusion Committee | USask | 2023
+        icon: light-bulb
+      - label: Treasurer
+        description: Sociology Graduate Student Association (SGSA) | USask | Sep 2022 - Sep 2023
+        icon: light-bulb
+      - label: Communications Director
+        description: Sociology Undergraduate Student Association (SUSA) | USask | Sep 2021 - Aug 2022
         icon: light-bulb
   - name: Languages
     items: 
@@ -174,18 +187,79 @@ skills:
         description: Intermediate
       - label: French
         description: Beginner
-        
-Certifications:
   - name: Certifications
     items:
-      - label: Name of Certification
+      - label: MobilizeU Knowledge Mobilization
+        description: Knowledge Mobilization Course offered by Research Impact Canada | 2024
         icon: light-bulb
-      - label: 2nd certification
+      - label: Understanding Generative AI
+        description: USask | 2024
         icon: light-bulb
+      - label: Graphic Design Essentials
+        description: Canva | 2024
+        icon: light-bulb
+      - label: Mental Health First Aid Basic
+        description: Mental Health First Aid Canada | 2023
+        icon: light-bulb
+      - label: TCPS 2: CORE: Ethical Conduct for Research Involving Humans
+        description: Government of Canada | 2022
+      - label: Sexual Violence Prevention and Response
+        description: USask | 2022
+        icon: light-bulb
+      - label: Introduction to Intercultural Communication
+        description: USask | 2022
+        icon: light-bulb
+      - label: Service Best Saskatchewan 
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: SSHRC Canada Graduate Scholarship - Doctoral
+    #url: #https://www.coursera.org/learn/neural-networks-deep-learning
+    date: "2024"
+    awarder: Social Sciences and Humanities Research Council of Canada
     icon: hero/trophy
+    summary: 'Value: $22,500 over three years' 
+  - title: Honourary Saskatchewan Innovation & Opportunity Scholarship Fundamentals
+    #url: #https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: "2024"
+    awarder: Saskatchewan Innovation & Opportunity Scholarship/ USask College of Graduate and Postdoctoral Studies
+    icon: hero/trophy
+    summary: 'Value: $22,500 over three years' 
+  - title: Canada Graduate Scholarship - Master
+   # url: #https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    #certificate_url: #https://www.datacamp.com
+    date: "2023"
+    awarder: Social Sciences and Humanities Research Council of Canada
+    icon: hero/trophy
+    summary: 'Value: $17,500'
+  - title: CGPS 75th Anniversary Recruitment Scholarship
+    #url: #https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    #certificate_url: #https://www.datacamp.com
+    date: "2023"
+    awarder: College of Graduate and Postdoctoral Studies, USask
+    icon: hero/trophy
+    summary: 'Value: $6,000'
+  - title: Graduate Research Fellowship
+    #url: #https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    #certificate_url: #https://www.datacamp.com
+    date: "2022"
+    awarder: USask Department of Sociology/College of Graduate and Postdoctoral Studies
+    icon: hero/trophy
+    summary: 'Value: $16,000'
+  - title: Outstanding Graduating Undergraduate Sociology Student Award
+    #url: #https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    #certificate_url: #https://www.datacamp.com
+    date: "2022"
+    awarder: Canadian Sociological Association
+    icon: hero/trophy
+    summary: 
+  - title: Invited Presenter - FutureNow 2022 Student Showcase
+    date: "2022"
+    awarder: USask Undergraduate Research Initiative
+    icon: hero/trophy
+  - title: 1st Place - Undergraduate Research Experience Research Symposium
+    #url: #https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    #certificate_url: #https://www.datacamp.com
+    date: "2021"
+    awarder: USask Undergraduate Research Initiative
+    icon: hero/trophy
+    summary: 
