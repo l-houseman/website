@@ -3,7 +3,7 @@ title: Transforming Large‑Scale Scholarship Administration Through Automation
 date: 2026-04-01
 links:
   - type: Github Repo
-    url: https://github.com/pandas-dev/pandas
+    url: https://github.com/l-houseman/Scholarship-Administration
 tags:
   - Automation
   - Python
